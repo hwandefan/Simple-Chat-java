@@ -1,2 +1,2 @@
 # Simple-Chat-java
-Simple Chat on Java
+Simple Java Server on Sockets for general chat between users.
